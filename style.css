@@ -1,0 +1,20 @@
+@media screen and (max-width:700px){
+    body, table{
+        width: auto;
+        float: none;
+    }
+}
+
+
+
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    float: left;
+}
+
+.second{
+    display: grid;
+    float: left;
+}
